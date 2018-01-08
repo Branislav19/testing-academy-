@@ -5,5 +5,4 @@ kurz academy t-systems
 files for my best course ever - testing academy
 
 
-
-
+nova zmena do rici
