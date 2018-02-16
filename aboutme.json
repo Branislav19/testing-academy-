@@ -1,0 +1,16 @@
+{
+
+"name": "Branislav",
+"surname": "Ciberej",
+"city": "Presov",
+"street": "Dumbierska",
+
+"personalmeasures": {
+               "weight":"89",
+               "height":"188"
+},
+
+"University degree":true
+
+
+}
